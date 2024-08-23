@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Raghavendra</h1>
 <h3 align="center">A passionate student and frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"scr="[https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif)">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a3194b14-6766-4a74-8186-00a07d830194" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1242&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1242" /> </p>
 
