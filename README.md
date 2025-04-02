@@ -1,6 +1,21 @@
 # 💫 About Me:
-🌱 I’m currently learning Operating Systems and Java<br><br>👨‍💻 All of my projects are available at https://www.figma.com/proto/WuqwHtg7urp8tCZZQP4u0F/figma?node-id=48-76&t=MIpjwjm8fGXHhr18-1<br><br>📫 How to reach me m.raghavendra331@gmail.com<br><br>📄 Know about my experiences [I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.](I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.)
 
+<h1 align="center">Hi 👋, I'm Raghavendra</h1>
+
+<h3 align="center">A passionate student and frontend developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a3194b14-6766-4a74-8186-00a07d830194" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1242&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1242" /> </p>
+
+
+- 🌱 I’m currently learning **Operating Systems and Java**
+
+- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/WuqwHtg7urp8tCZZQP4u0F/figma?node-id=48-76&t=MIpjwjm8fGXHhr18-1](https://www.figma.com/proto/WuqwHtg7urp8tCZZQP4u0F/figma?node-id=48-76&t=MIpjwjm8fGXHhr18-1)
+
+- 📫 How to reach me **m.raghavendra331@gmail.com**
+
+- 📄 Know about my experiences [I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.](I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukku-raghavendra-18aa79290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.raghavendra331@gmail.com) 
