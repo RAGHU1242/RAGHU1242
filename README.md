@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raghavendra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student and frontend developer from India</h3>
 
-<img align="center" alt="coding" width="500" src="https://github.com/user-attachments/assets/a3194b14-6766-4a74-8186-00a07d830194" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a3194b14-6766-4a74-8186-00a07d830194" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1242&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1242" /> </p>
 
-<br> <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghu1242" alt="raghu1242" /></a> </p>
 
 - 🌱 I’m currently learning **Operating Systems and Java**
 
@@ -17,9 +14,11 @@
 
 - 📄 Know about my experiences [I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.](I’m a 2nd-year B.Tech student in Information Technology at VJIT College. I have a strong passion for coding, problem-solving, and exploring new technologies. 🚀 Proficient in C, Python, and HTML/CSS, I’m always looking for opportunities to collaborate on innovative projects and make meaningful contributions to the tech community.)
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mukku raghavendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukku raghavendra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mukku Raghavendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukku_raghavendra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@m_raghavendra331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_raghavendra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghu1242&show_icons=true&locale=en&layout=compact" alt="raghu1242" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghu1242&show_icons=true&locale=en" alt="raghu1242" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghu1242&" alt="raghu1242" /></p>
