@@ -59,18 +59,49 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghu1242&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Raghavendra's GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raghu1242&theme=dark&hide_border=false" alt="Raghavendra's GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghu1242&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAGHU1242&theme=github_dark"/>
+
+<table>
+<tr>
+<td width="50%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAGHU1242&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+</td>
+<td width="50%">
+  <img src="https://streak-stats.demolab.com/?user=RAGHU1242&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHU1242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAGHU1242&theme=github_dark"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHU1242&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 
 ---
 
-### 🏆 Trophies & Achievements
+### 🏆 Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghu1242&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RAGHU1242&theme=github_dark&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&no-bg=true"/>
 </div>
 
 ---
