@@ -13,36 +13,30 @@
 ---
 
 <!-- About Me & Core Competencies -->
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <!-- About Me -->
-    <td valign="top" width="60%" style="padding:15px;">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I’m a <strong>3rd-year B.Tech student</strong> from <strong>Manchirevula, India 🇮🇳</strong>, passionate about 
-        <strong>Full Stack Development</strong> & <strong>Machine Learning</strong>.  
-        I love building scalable web applications and intelligent solutions that solve real-world problems.
-      </p>
-      <ul style="line-height:1.6;">
-        <li>🔭 <strong>Currently Building:</strong> Innovative full stack projects combining web + ML technologies.</li>
-        <li>🌱 <strong>Learning:</strong> React.js, Node.js, Python ML frameworks, cloud computing & modern backends.</li>
-        <li>👯 <strong>Collaboration:</strong> Open to contributing to open-source and team-based projects.</li>
-        <li>💬 <strong>Ask me about:</strong> Full stack dev, ML basics, React.js, Python, JS & practical UI/UX design.</li>
-      </ul>
-    </td>
+<h3>👨‍💻 About Me</h3>
+<p>
+  I’m a <strong>3rd-year B.Tech student</strong> from <strong>Manchirevula, India 🇮🇳</strong>, passionate about 
+  <strong>Full Stack Development</strong> & <strong>Machine Learning</strong>.  
+  I love building scalable web applications and intelligent solutions that solve real-world problems.
+</p>
 
-    <!-- Core Competencies -->
-    <td valign="top" width="40%" style="padding:15px; background:#f9f9f9; border-radius:12px;">
-      <h3>💡 Core Competencies</h3>
-      <ul style="line-height:1.8; list-style: none; padding-left:0;">
-        <li>🎨 <strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
-        <li>⚙️ <strong>Backend & DB:</strong> Firebase, Python (Basic)</li>
-        <li>🖌️ <strong>UI/UX:</strong> Figma</li>
-        <li>🛠️ <strong>DevOps & Tools:</strong> Git, Vercel, Netlify</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🔭 <strong>Currently Building:</strong> Innovative full stack projects combining web + ML technologies.</li>
+  <li>🌱 <strong>Learning:</strong> React.js, Node.js, Python ML frameworks, cloud computing & modern backends.</li>
+  <li>👯 <strong>Collaboration:</strong> Open to contributing to open-source and team-based projects.</li>
+  <li>💬 <strong>Ask me about:</strong> Full stack dev, ML basics, React.js, Python, JS & practical UI/UX design.</li>
+</ul>
+
+---
+
+<h3>💡 Core Competencies</h3>
+<ul>
+  <li>🎨 <strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
+  <li>⚙️ <strong>Backend & DB:</strong> Firebase, Python (Basic)</li>
+  <li>🖌️ <strong>UI/UX:</strong> Figma</li>
+  <li>🛠️ <strong>DevOps & Tools:</strong> Git, Vercel, Netlify</li>
+</ul>
+
 
 
 - 👨‍💻 All my projects: [Figma Portfolio](https://www.figma.com/proto/WuqwHtg7urp8tCZZQP4u0F/figma?node-id=48-76&t=MIpjwjm8fGXHhr18-1)
