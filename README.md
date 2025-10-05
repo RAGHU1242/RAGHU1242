@@ -1,6 +1,6 @@
 <!-- Header -->
 <div id="header" align="center">
-  <h1>Hi 👋, I'm Raghavendra. </h1>
+  <h1>Hi 👋, I'm Raghavendra</h1>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=27A9F5&center=true&width=850&lines=Coding+with+purpose:+making+technology+simple,+smart,+and+accessible" alt="Typing SVG" />
   </div>
