@@ -1,105 +1,230 @@
 <!-- Header -->
 <div id="header" align="center">
-  <h1>Hi 👋, I'm Raghavendra.</h1>
+
+  <h1>Hi 👋, I'm Raghavendra</h1>
+
+  <h3>Software Engineer | Full Stack Developer | Open Source Contributor</h3>
+
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=27A9F5&center=true&width=850&lines=Coding+with+purpose:+making+technology+simple,+smart,+and+accessible." alt="Typing SVG" />
   </div>
-</div>
 
-<div align="center">
+  <br/>
+
   <img src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif" alt="Coding GIF" />
+
 </div>
 
----
 
-<!-- About Me & Core Competencies -->
-<h3>👨‍💻 About Me</h3>
-<p>
-  I’m a <strong>3rd-year B.Tech student</strong> from <strong>Manchirevula, India 🇮🇳</strong>, passionate about 
-  <strong>Full Stack Development</strong> & <strong>Machine Learning</strong>.  
-  I love building scalable web applications and intelligent solutions that solve real-world problems.
-</p>
 
-<ul>
-  <li>🔭 <strong>Currently Building:</strong> Innovative full stack projects combining web + ML technologies.</li>
-  <li>🌱 <strong>Learning:</strong> React.js, Node.js, Python ML frameworks, cloud computing & modern backends.</li>
-  <li>👯 <strong>Collaboration:</strong> Open to contributing to open-source and team-based projects.</li>
-  <li>💬 <strong>Ask me about:</strong> Full stack dev, ML basics, React.js, Python, JS & practical UI/UX design.</li>
-</ul>
 
 ---
 
-<h3>💡 Core Competencies</h3>
-<ul>
-  <li>🎨 <strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
-  <li>⚙️ <strong>Backend & DB:</strong> Firebase, Python (Basic)</li>
-  <li>🖌️ <strong>UI/UX:</strong> Figma</li>
-  <li>🛠️ <strong>DevOps & Tools:</strong> Git, Vercel, Netlify</li>
-</ul>
+## 👨‍💻 About Me
 
+I'm **Mukku Raghavendra (Raghu)**, a **4th-year B.Tech Information Technology student** at **Vidya Jyothi Institute of Technology (VJIT), Hyderabad**, passionate about **Software Engineering, Full Stack Development, Problem Solving, Open Source**, and building meaningful digital products.
 
+I enjoy creating practical software solutions that solve real-world problems while combining clean engineering with thoughtful user experiences.
 
-- 👨‍💻 All my projects: [Figma Portfolio](https://www.figma.com/proto/WuqwHtg7urp8tCZZQP4u0F/figma?node-id=48-76&t=MIpjwjm8fGXHhr18-1)
+I have experience working with **Java, Python, JavaScript, React.js, Firebase, MySQL**, and modern web technologies, along with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, and Operating Systems**.
 
----
-
-<!-- Tech Stack -->
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
-</p>
+* 🔭 **Currently Building:** Real-world software projects focused on solving practical problems
+* 🌱 **Currently Learning:** Full Stack Development, Advanced DSA, Backend Technologies & Cloud Computing
+* 🌍 **Open Source:** GSSoC '25 Contributor & Campus Ambassador
+* 🔀 **GSSoC '25:** 29 merged Pull Requests
+* 🏅 **GSSoC Rank:** #86 among 3,421+ contributors
+* 🌟 **Leadership:** Selected among the Top 30 GSSoC '25 Campus Ambassadors nationally
+* 🎃 **Hacktoberfest 2025:** Super Contributor with 6 meaningful merged PRs
+* 👯 **Open to:** Software Development, Open Source, Internships & Collaborative Projects
+* 💬 **Ask me about:** Java, Full Stack Development, React.js, JavaScript, Firebase, DSA, DBMS & Open Source
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+## 💡 Core Competencies
+
+### 💻 Programming
+
+`Java` `Python` `C` `JavaScript`
+
+### 🎨 Frontend Development
+
+`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS`
+
+### ⚙️ Database & Backend
+
+`MySQL` `Firebase`
+
+### 📱 Application Development
+
+`Android SDK` `Firebase` `Google Maps API`
+
+### 🧠 Computer Science
+
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
+
+### 🖌️ UI/UX
+
+`Figma`
+
+### 🛠️ Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Qlik Analytics` `Arduino IDE`
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 AgriGo — Agriculture Service Platform
+
+An Android application designed to connect farmers with drivers, machinery, and labor, simplifying rural service coordination.
+
+**Key Features:**
+
+* 📍 Live GPS tracking using Google Maps
+* 🔥 Firebase-powered real-time data synchronization
+* 🔐 OTP-based verification for secure cargo pickup
+* 📱 Android-based mobile application
+
+**Tech Stack:** `Java` `Firebase` `Google Maps API` `Android SDK`
+
+---
+
+### 💊 Smart Pill Dispenser — IoT
+
+An automated IoT-based pill dispensing system designed to provide timely and reliable medication reminders.
+
+**Key Features:**
+
+* ⏰ RTC-based medication scheduling
+* 👤 IR sensor-based user detection
+* 🔔 Automated buzzer alerts
+* 📟 LCD-based information display
+* 📅 Support for multiple daily dosage schedules
+
+**Tech Stack:** `Arduino UNO` `Embedded C` `RTC Module` `IR Sensor` `LCD` `Arduino IDE`
+
+---
+
+## 🌍 Open Source Journey
+
+### 👩‍💻 GirlScript Summer of Code — GSSoC '25
+
+* 🔀 Successfully merged **29 Pull Requests**
+* 🏅 Earned **189 points**
+* 📊 Ranked **#86 out of 3,421+ contributors**
+* 🎖️ Earned **Explorer & Adventurer badges**
+* 🌟 Selected among the **Top 30 Campus Ambassadors nationally**
+* 🤝 Helped onboard **50+ students** into open-source contribution
+
+### 🎃 Hacktoberfest 2025
+
+* 🏆 Recognized as a **Super Contributor**
+* 🔀 Completed **6 meaningful merged Pull Requests**
+* 🌐 Contributed across diverse open-source repositories
+* 🌱 Recognized for quality contributions and community engagement
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAGHU1242&theme=github_dark" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RAGHU1242&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=RAGHU1242&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHU1242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAGHU1242&theme=github_dark" alt="Repos per Language" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHU1242&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAGHU1242&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10&no-bg=true"/>
 </div>
 
 ---
 
-<!-- Connect -->
-### 🌐 Let's Connect
+## 🏆 Achievements & Highlights
 
-<p align="center">
-  I'm always open to new opportunities and collaborations. Reach out to me on:
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mukku-raghavendra-18aa79290">
-    <img src="https://img.shields.io/badge/LinkedIn-27A9F5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:m.raghavendra331@gmail.com">
-    <img src="https://img.shields.io/badge/Email-27A9F5?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+* 🥇 **4th Place (Special Prize)** — InnoQuest 2025 Hackathon (Microsoft Azure + Reskilll)
+* 🛡️ **5th Place** — CYBERONIX Level 1 Cybersecurity
+* 🏆 **AlgoBharat AlgoGitSquad November Topper**
+* ☁️ **Google Cloud Arcade** — Standard & Premium Milestones
+* 🌍 **GSSoC '25** — Ranked #86 among 3,421+ contributors
+* 🌟 **Top 30 GSSoC '25 Campus Ambassadors**
+* 🎃 **Hacktoberfest 2025 Super Contributor**
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/m_raghavendra/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/m_raghavendra331">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+<a href="https://www.codechef.com/users/m_raghu_1242">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAGHU1242&theme=tokyonight&hide_border=true" alt="Raghavendra's GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAGHU1242&theme=github_dark" alt="Repositories per Language" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAGHU1242&theme=github_dark" alt="GitHub Profile Details" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with developers, collaborating on interesting projects, contributing to open source, and exploring new opportunities.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mukku-raghavendra-18aa79290">
+  <img src="https://img.shields.io/badge/LinkedIn-27A9F5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:m.raghavendra331@gmail.com">
+  <img src="https://img.shields.io/badge/Email-27A9F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/RAGHU1242">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*Let's build, learn, and grow together 🚀*
+
+</div>
